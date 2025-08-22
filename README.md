@@ -26,5 +26,6 @@ The project demonstrates **data collection, preprocessing, API integration, and 
 - **CSV (Spotify 2023 dataset)** – base dataset for analysis  
 
 ---
+## 🔑 Keywords
+Spotify Power BI Project · Spotify Dashboard · Music Analytics · Data Visualization · Spotify API · Power BI Portfolio · Data Analyst Project
 
-## 📂 Repository Structure
