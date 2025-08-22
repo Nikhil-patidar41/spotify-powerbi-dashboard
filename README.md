@@ -1,14 +1,30 @@
-# spotify-powerbi-dashboard
-"Spotify Power BI Dashboard for music data analysis. Explore top artists, songs, genres, and streaming trends using interactive Power BI visuals. A complete data visualization project for portfolio."
+# 🎶 Spotify Power BI Dashboard with API Integration  
 
+This repository contains an **end-to-end data analytics project** on **Spotify 2023 dataset**.  
+I used the **Spotify API** to fetch **album cover URLs** and enriched the dataset before building an **interactive Power BI dashboard**.  
 
-# Spotify Power BI Dashboard 🎶
+The project demonstrates **data collection, preprocessing, API integration, and business intelligence reporting**.  
 
-An **interactive Power BI dashboard** analyzing **Spotify music data**.  
-This project showcases **data visualization, analytics, and business insights** by exploring:  
-- Top Artists  
-- Popular Tracks  
-- Genre Distribution  
-- Streaming Trends Over Time  
+---
 
-📊 A perfect **Power BI portfolio project** for Data Analysts and Data Scientists.
+## 🚀 Features
+- Extracted **Spotify music data** (Top tracks, artists, and genres)  
+- Enriched dataset with **album cover images** using Spotify API  
+- Built an **interactive Power BI dashboard** with insights on:  
+  - 🎤 Top Artists & Songs  
+  - 🎶 Genre Popularity  
+  - 📈 Trends over time  
+  - 🎧 Song-level metrics (duration, popularity, etc.)  
+- Added **album cover visuals** inside Power BI  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI Desktop** – for building interactive dashboards  
+- **Python (Pandas, Requests, tqdm)** – for API calls and data enrichment  
+- **Spotify API** – to fetch album covers and metadata  
+- **CSV (Spotify 2023 dataset)** – base dataset for analysis  
+
+---
+
+## 📂 Repository Structure
