@@ -24,6 +24,7 @@ The project demonstrates **data collection, preprocessing, API integration, and 
 - **Python (Pandas, Requests, tqdm)** – for API calls and data enrichment  
 - **Spotify API** – to fetch album covers and metadata  
 - **CSV (Spotify 2023 dataset)** – base dataset for analysis  
+<img width="1295" height="712" alt="image" src="https://github.com/user-attachments/assets/8e4402cf-4d75-4454-898f-13ff758e2265" />
 
 ---
 ## 🔑 Keywords
